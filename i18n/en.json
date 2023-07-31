@@ -1,0 +1,965 @@
+{
+  "$auth_intro": {
+    "value": "**Securely** store crypto\nand make blockchain payments\nat the **speed of light**.\n"
+  },
+  "Create New Wallet": {
+    "value": "Create New Wallet"
+  },
+  "Import From %1$d Secret Words": {
+    "value": "Import From %1$d Secret Words"
+  },
+  "More about MyTonWallet": {
+    "value": "More about MyTonWallet"
+  },
+  "Creating Wallet...": {
+    "value": "Creating Wallet..."
+  },
+  "On the count of three...": {
+    "value": "On the count of three..."
+  },
+  "$auth_backup_description1": {
+    "value": "This is a **secure wallet**\nand is only **controlled by you**.\n"
+  },
+  "$auth_backup_description2": {
+    "value": "And with great power comes **great responsibility**."
+  },
+  "$auth_backup_description3": {
+    "value": "You need to manually **back up secret keys** in case you forget your password or lose access to this device.\n"
+  },
+  "Back Up": {
+    "value": "Back Up"
+  },
+  "Skip For Now": {
+    "value": "Skip For Now"
+  },
+  "Passwords must be equal.": {
+    "value": "Passwords must be equal."
+  },
+  "To protect your wallet as much as possible, use a password with": {
+    "value": "To protect your wallet as much as possible, use a password with"
+  },
+  "$auth_password_rule_8chars": {
+    "value": "at least 8 characters"
+  },
+  "$auth_password_rule_one_small_char": {
+    "value": "one small letter"
+  },
+  "$auth_password_rule_one_capital_char": {
+    "value": "one capital letter"
+  },
+  "$auth_password_rule_one_digit": {
+    "value": "one digit"
+  },
+  "$auth_password_rule_one_special_char": {
+    "value": "and one special character"
+  },
+  "The wallet is imported": {
+    "value": "The wallet is imported"
+  },
+  "The wallet is ready": {
+    "value": "The wallet is ready"
+  },
+  "Create a password to protect it.": {
+    "value": "Create a password to protect it."
+  },
+  "Enter your password": {
+    "value": "Enter your password"
+  },
+  "Enter your password...": {
+    "value": "Enter your password..."
+  },
+  "...and repeat it": {
+    "value": "...and repeat it"
+  },
+  "Cancel": {
+    "value": "Cancel"
+  },
+  "Insecure Password": {
+    "value": "Insecure Password"
+  },
+  "Your have entered an insecure password, which can be easily guessed by scammers.": {
+    "value": "Your have entered an insecure password, which can be easily guessed by scammers."
+  },
+  "Continue or change password to something more secure?": {
+    "value": "Continue or change password to something more secure?"
+  },
+  "Change": {
+    "value": "Change"
+  },
+  "%1$d Secret Words": {
+    "value": "%1$d Secret Words"
+  },
+  "$auth_import_mnemonic_description": {
+    "value": "You can restore access to your wallet by entering the %1$d secret words\nthat you wrote down when creating the wallet.\n"
+  },
+  "Let’s make sure your secrets words are recorded correctly.": {
+    "value": "Let’s make sure your secrets words are recorded correctly."
+  },
+  "$mnemonic_check_words_list": {
+    "value": "Please enter the words **%1$s** below."
+  },
+  "$mnemonic_check_error": {
+    "value": "The secret words you have entered do not match the ones in the list. Please try again."
+  },
+  "$mnemonic_list_description": {
+    "value": "Write down these words\nin the **correct order** and store them\nin a **secret place**.\n"
+  },
+  "Let's Check": {
+    "value": "Let's Check"
+  },
+  "Let's Check!": {
+    "value": "Let's Check!"
+  },
+  "Safety Rules": {
+    "value": "Safety Rules"
+  },
+  "$safety_rules_one": {
+    "value": "On the next screen you will see the **secret words**. Write them down in the correct order and **store in a secure place**.\n"
+  },
+  "$safety_rules_two": {
+    "value": "They allow to **open your wallet** if you lose your password or access to this device."
+  },
+  "$safety_rules_three": {
+    "value": "If anybody else sees these words your funds **may be stolen**. Look around!"
+  },
+  "Understood": {
+    "value": "Understood"
+  },
+  "Congratulations!": {
+    "value": "Congratulations!"
+  },
+  "Continue": {
+    "value": "Continue"
+  },
+  "Close": {
+    "value": "Close"
+  },
+  "Back": {
+    "value": "Back"
+  },
+  "Search...": {
+    "value": "Search..."
+  },
+  "Main menu": {
+    "value": "Main menu"
+  },
+  "TON Proxy": {
+    "value": "TON Proxy"
+  },
+  "Toggle TON Proxy": {
+    "value": "Toggle TON Proxy"
+  },
+  "TON Magic": {
+    "value": "TON Magic"
+  },
+  "Toggle TON Magic": {
+    "value": "Toggle TON Magic"
+  },
+  "Open Telegram Web": {
+    "value": "Open Telegram Web"
+  },
+  "Back Up Secret Words": {
+    "value": "Back Up Secret Words"
+  },
+  "Settings": {
+    "value": "Settings"
+  },
+  "About": {
+    "value": "About"
+  },
+  "Exit": {
+    "value": "Exit"
+  },
+  "Something went wrong": {
+    "value": "Something went wrong"
+  },
+  "Logo": {
+    "value": "Logo"
+  },
+  "$about_description1": {
+    "value": "Securely store crypto, explore decentralized apps, and make blockchain payments at the **speed of light**."
+  },
+  "$about_description2": {
+    "value": "The wallet is **non-custodial and safe**. The developers **do not** have access to your funds, browser history or any other information."
+  },
+  "What is TON Proxy?": {
+    "value": "What is TON Proxy?"
+  },
+  "$about_extension_description1": {
+    "value": "TON Proxy opens a way to **decentralized internet** by allowing to anonymously access TON Sites."
+  },
+  "More info and demo.": {
+    "value": "More info and demo."
+  },
+  "$about_extension_description2": {
+    "value": "TON Magic provides native **Telegram integration** by patching the official Telegram Web app."
+  },
+  "$about_extension_description3": {
+    "value": "Turn it on to send and receive Toncoins from any Telegram user."
+  },
+  "$about_proxy_magic_title": {
+    "value": "What about %ninja% TON Proxy and %unicorn% TON Magic?"
+  },
+  "$about_proxy_magic_description": {
+    "value": "To enjoy **decentralized internet**, access **TON Sites**, and leverage native **Telegram integration**, feel free to install the %extension_link%."
+  },
+  "$about_extension_link_text": {
+    "value": "**MyTonWallet extension**"
+  },
+  "Is it open source?": {
+    "value": "Is it open source?"
+  },
+  "$about_wallet_github": {
+    "value": "Yes, it is. Feel free to explore our %github_link%."
+  },
+  "$about_github_link_text": {
+    "value": "**GitHub repository**"
+  },
+  "Is there a community?": {
+    "value": "Is there a community?"
+  },
+  "$about_wallet_community": {
+    "value": "Sure, welcome to our %community_link%."
+  },
+  "$about_community_link_text": {
+    "value": "**Telegram channel**"
+  },
+  "Currency History": {
+    "value": "Currency History"
+  },
+  "$add_account_description1": {
+    "value": "**MyTonWallet** allows you to seamlessly\nswitch between **multiple accounts**.\n"
+  },
+  "$add_account_description2": {
+    "value": "Try it by **creating** a new wallet,\nor **importing** any of your existing ones\nusing 24 secret words.\n"
+  },
+  "Enter Password": {
+    "value": "Enter Password"
+  },
+  "Send": {
+    "value": "Send"
+  },
+  "Add Wallet": {
+    "value": "Add Wallet"
+  },
+  "Done": {
+    "value": "Done"
+  },
+  "Delete": {
+    "value": "Delete"
+  },
+  "Delete Saved Address": {
+    "value": "Delete Saved Address"
+  },
+  "Are you sure you want to remove this address from your saved ones?": {
+    "value": "Are you sure you want to remove this address from your saved ones?"
+  },
+  "You will be able to save it again via Transaction Info with this address.": {
+    "value": "You will be able to save it again via Transaction Info with this address."
+  },
+  "Address removed from saved": {
+    "value": "Address removed from saved"
+  },
+  "Warning!": {
+    "value": "Warning!"
+  },
+  "Log Out": {
+    "value": "Log Out"
+  },
+  "$logout_without_backup_warning": {
+    "value": "You have not backed up this wallet. If you log out, you will lose access to your tokens and NFTs."
+  },
+  "$logout_accounts_without_backup_warning": {
+    "value": "You have not backed up %links%. If you log out, you will lose access to your tokens and NFTs."
+  },
+  "$logout_warning": {
+    "value": "This will disconnect the wallet from this app. You will be able to restore your wallet using **%1$d secret words** - or import another wallet."
+  },
+  "Receive TON": {
+    "value": "Receive TON"
+  },
+  "Your address was copied!": {
+    "value": "Your address was copied!"
+  },
+  "Show QR-Code": {
+    "value": "Show QR-Code"
+  },
+  "Create Invoice": {
+    "value": "Create Invoice"
+  },
+  "QR-code": {
+    "value": "QR-code"
+  },
+  "$receive_invoice_description": {
+    "value": "You can specify the amount and purpose of\nthe payment to save the sender some time\n"
+  },
+  "Amount": {
+    "value": "Amount"
+  },
+  "Comment": {
+    "value": "Comment"
+  },
+  "Share this URL to receive TON": {
+    "value": "Share this URL to receive TON"
+  },
+  "Invoice link was copied!": {
+    "value": "Invoice link was copied!"
+  },
+  "US Dollar": {
+    "value": "US Dollar"
+  },
+  "Theme": {
+    "value": "Theme"
+  },
+  "Language": {
+    "value": "Language"
+  },
+  "Enable Animations": {
+    "value": "Enable Animations"
+  },
+  "Fiat Currency": {
+    "value": "Fiat Currency"
+  },
+  "Investor View": {
+    "value": "Investor View"
+  },
+  "Toggle Investor View": {
+    "value": "Toggle Investor View"
+  },
+  "Hide Tiny Transfers": {
+    "value": "Hide Tiny Transfers"
+  },
+  "Toggle Hide Tiny Transfers": {
+    "value": "Toggle Hide Tiny Transfers"
+  },
+  "Network": {
+    "value": "Network"
+  },
+  "Developer Options": {
+    "value": "Developer Options"
+  },
+  "Confirmation": {
+    "value": "Confirmation"
+  },
+  "Data to sign": {
+    "value": "Data to sign"
+  },
+  "$signature_warning": {
+    "value": "Signing custom data is very dangerous.\nUse only if you know what you are doing.\n"
+  },
+  "Sign": {
+    "value": "Sign"
+  },
+  "Done!": {
+    "value": "Done!"
+  },
+  "Signing was confirmed!": {
+    "value": "Signing was confirmed!"
+  },
+  "Transaction Info": {
+    "value": "Transaction Info"
+  },
+  "Transaction in progress": {
+    "value": "Transaction in progress"
+  },
+  "Comment was copied!": {
+    "value": "Comment was copied!"
+  },
+  "View Transaction on TON Explorer": {
+    "value": "View Transaction on TON Explorer"
+  },
+  "Sender": {
+    "value": "Sender"
+  },
+  "Recipient": {
+    "value": "Recipient"
+  },
+  "Address was copied!": {
+    "value": "Address was copied!"
+  },
+  "Send Back": {
+    "value": "Send Back"
+  },
+  "Repeat": {
+    "value": "Repeat"
+  },
+  "Receive": {
+    "value": "Receive"
+  },
+  "Switch Account": {
+    "value": "Switch Account"
+  },
+  "Copy wallet address": {
+    "value": "Copy wallet address"
+  },
+  "View address on TON Explorer": {
+    "value": "View address on TON Explorer"
+  },
+  "Open on CoinMarketCap": {
+    "value": "Open on CoinMarketCap"
+  },
+  "No Activity": {
+    "value": "No Activity"
+  },
+  "You have just created a new wallet": {
+    "value": "You have just created a new wallet"
+  },
+  "You can now transfer your tokens from another wallet or exchange.": {
+    "value": "You can now transfer your tokens from another wallet or exchange."
+  },
+  "Assets": {
+    "value": "Assets"
+  },
+  "Activity": {
+    "value": "Activity"
+  },
+  "NFT": {
+    "value": "NFT"
+  },
+  "No NFTs yet": {
+    "value": "No NFTs yet"
+  },
+  "$nft_explore_offer": {
+    "value": "Explore a marketplace to discover\nexisting NFT collections.\n"
+  },
+  "Open Getgems": {
+    "value": "Open Getgems"
+  },
+  "Transaction is not completed": {
+    "value": "Transaction is not completed"
+  },
+  "Received": {
+    "value": "Received"
+  },
+  "Sent": {
+    "value": "Sent"
+  },
+  "$transaction_from": {
+    "value": "from %address%"
+  },
+  "$transaction_to": {
+    "value": "to %address%"
+  },
+  "Wallet is not backed up": {
+    "value": "Wallet is not backed up"
+  },
+  "Testnet Version": {
+    "value": "Testnet Version"
+  },
+  "Error reading clipboard": {
+    "value": "Error reading clipboard"
+  },
+  "$fee_value": {
+    "value": "Fee: %fee%"
+  },
+  "Loading...": {
+    "value": "Loading..."
+  },
+  "Recipient Address": {
+    "value": "Recipient Address"
+  },
+  "Wallet address or domain": {
+    "value": "Wallet address or domain"
+  },
+  "Incorrect address": {
+    "value": "Incorrect address"
+  },
+  "Paste": {
+    "value": "Paste"
+  },
+  "Insufficient balance": {
+    "value": "Insufficient balance"
+  },
+  "InsufficientBalance": {
+    "value": "Insufficient balance"
+  },
+  "Optional": {
+    "value": "Optional"
+  },
+  "$send_token_symbol": {
+    "value": "Send %1$s"
+  },
+  "$your_balance_is": {
+    "value": "Your balance: %balance%"
+  },
+  "Is it all ok?": {
+    "value": "Is it all ok?"
+  },
+  "Receiving Address": {
+    "value": "Receiving Address"
+  },
+  "Fee": {
+    "value": "Fee"
+  },
+  "Edit": {
+    "value": "Edit"
+  },
+  "Confirm": {
+    "value": "Confirm"
+  },
+  "Confirm Transaction": {
+    "value": "Confirm Transaction"
+  },
+  "Coins have been sent!": {
+    "value": "Coins have been sent!"
+  },
+  "Details": {
+    "value": "Details"
+  },
+  "Change password visibility": {
+    "value": "Change password visibility"
+  },
+  "Amount value": {
+    "value": "Amount value"
+  },
+  "Save Address": {
+    "value": "Save Address"
+  },
+  "Name": {
+    "value": "Name"
+  },
+  "Save": {
+    "value": "Save"
+  },
+  "Copy": {
+    "value": "Copy"
+  },
+  "Remove From Saved Addresses": {
+    "value": "Remove From Saved Addresses"
+  },
+  "Add To Saved Addresses": {
+    "value": "Add To Saved Addresses"
+  },
+  "View Address on TON Explorer": {
+    "value": "View Address on TON Explorer"
+  },
+  "No suggestions, you're on your own!": {
+    "value": "No suggestions, you're on your own!"
+  },
+  "Play Sounds": {
+    "value": "Play Sounds"
+  },
+  "Focus on asset value rather than current balance": {
+    "value": "Focus on asset value rather than current balance"
+  },
+  "$logout_confirm": {
+    "value": "Log out of **all** wallets"
+  },
+  "$logout_warning2": {
+    "value": "Wallets are located in the decentralized TON Blockchain. If you want the wallet to be deleted simply transfer all the TON from it and leave it empty."
+  },
+  "$tiny_transfers_help": {
+    "value": "Turn this off to display transactions of less than %1$d %2$s. Please be aware that such transactions are often used for spam and scam purposes."
+  },
+  "Today": {
+    "value": "Today"
+  },
+  "Yesterday": {
+    "value": "Yesterday"
+  },
+  "Now": {
+    "value": "Now"
+  },
+  "$receive_ton_description": {
+    "value": "You can share this address, show QR-code\nor create invoice to receive TON\n"
+  },
+  "Your address": {
+    "value": "Your address"
+  },
+  "Wrong password, please try again": {
+    "value": "Wrong password, please try again"
+  },
+  "Appearance": {
+    "value": "Appearance"
+  },
+  "Light": {
+    "value": "Light"
+  },
+  "Dark": {
+    "value": "Dark"
+  },
+  "System": {
+    "value": "System"
+  },
+  "Create Backup": {
+    "value": "Create Backup"
+  },
+  "Stake TON": {
+    "value": "Stake TON"
+  },
+  "Earn from your tokens while holding them": {
+    "value": "Earn from your tokens while holding them"
+  },
+  "$est_apy_val": {
+    "value": "Est. APY %1$d%"
+  },
+  "Why this is safe": {
+    "value": "Why this is safe"
+  },
+  "Why staking is safe?": {
+    "value": "Why staking is safe?"
+  },
+  "$safe_staking_description1": {
+    "value": "Staking is **fully decentralized** and operated by the **official TON Nominator** smart contract. No one can gain access to your staked tokens."
+  },
+  "$safe_staking_description2": {
+    "value": "The deposited stake will be used for the TON network validation as part of its **proof-of-stake** essence."
+  },
+  "$safe_staking_description3": {
+    "value": "You can withdraw your stake at **any time** and it will be deposited back to your account within **two days**."
+  },
+  "$min_value": {
+    "value": "Min %value%"
+  },
+  "Est. balance in a year": {
+    "value": "Est. balance in a year"
+  },
+  "Confirm Staking": {
+    "value": "Confirm Staking"
+  },
+  "Confirm operation with your password": {
+    "value": "Confirm operation with your password"
+  },
+  "Coins have been staked!": {
+    "value": "Coins have been staked!"
+  },
+  "View": {
+    "value": "View"
+  },
+  "Stake More": {
+    "value": "Stake More"
+  },
+  "Staking": {
+    "value": "Staking"
+  },
+  "Currently Staked": {
+    "value": "Currently Staked"
+  },
+  "Unstake": {
+    "value": "Unstake"
+  },
+  "Earning History": {
+    "value": "Earning History"
+  },
+  "$total": {
+    "value": "Total: %value%"
+  },
+  "Unstake TON": {
+    "value": "Unstake TON"
+  },
+  "$unstake_information_with_time": {
+    "value": "Your current deposit will be fully sent back to your wallet in %time%.\nThis will stop your earnings.\n"
+  },
+  "Amount to unstake": {
+    "value": "Amount to unstake"
+  },
+  "Confirm Unstaking": {
+    "value": "Confirm Unstaking"
+  },
+  "Request for unstaking is sent!": {
+    "value": "Request for unstaking is sent!"
+  },
+  "$unstaking_when_receive": {
+    "value": "You will receive your unstaked deposit in %time%"
+  },
+  "$unstake_insufficient_balance": {
+    "value": "You need to have %balance% on your main balance to proceed with unstaking."
+  },
+  "at APY %1$s%": {
+    "value": "at APY %1$s%"
+  },
+  "Staked": {
+    "value": "Staked"
+  },
+  "Unstake Requested": {
+    "value": "Unstake Requested"
+  },
+  "Unstaked": {
+    "value": "Unstaked"
+  },
+  "The network fee has slightly changed, try sending again.": {
+    "value": "The network fee has slightly changed, try sending again."
+  },
+  "Transfer was unsuccessful. Try again later": {
+    "value": "Transfer was unsuccessful. Try again later"
+  },
+  "Unstaking was unsuccessful. Try again later": {
+    "value": "Unstaking was unsuccessful. Try again later"
+  },
+  "Staking was unsuccessful. Try again later": {
+    "value": "Staking was unsuccessful. Try again later"
+  },
+  "Invalid amount": {
+    "value": "Invalid amount"
+  },
+  "Invalid address": {
+    "value": "Invalid address"
+  },
+  "Domain is not connected to a wallet": {
+    "value": "Domain is not connected to a wallet"
+  },
+  "Unexpected error": {
+    "value": "Unexpected error"
+  },
+  "Earn": {
+    "value": "Earn"
+  },
+  "Earning": {
+    "value": "Earning"
+  },
+  "InvalidAmount": {
+    "value": "Invalid amount"
+  },
+  "InvalidToAddress": {
+    "value": "Invalid recipient address"
+  },
+  "Unexpected": {
+    "value": "Unexpected error"
+  },
+  "DomainNotResolved": {
+    "value": "Domain Not Resolved"
+  },
+  "You can save this address for quick access while sending.": {
+    "value": "You can save this address for quick access while sending."
+  },
+  "Stake Again": {
+    "value": "Stake Again"
+  },
+  "Earned": {
+    "value": "Earned"
+  },
+  "Connect Dapp": {
+    "value": "Connect Dapp"
+  },
+  "Select wallets to use on this dapp": {
+    "value": "Select wallets to use on this dapp"
+  },
+  "Connect": {
+    "value": "Connect"
+  },
+  "Dapp Permissions": {
+    "value": "Dapp Permissions"
+  },
+  "$dapp_can_view_balance": {
+    "value": "%dappname% will be able to view wallet address and balance."
+  },
+  "Send Transaction": {
+    "value": "Send Transaction"
+  },
+  "Payload": {
+    "value": "Payload"
+  },
+  "$many_transactions": {
+    "value": "%1$d transactions"
+  },
+  "Total Amount": {
+    "value": "Total Amount"
+  },
+  "Unstaking": {
+    "value": "Unstaking"
+  },
+  "Handle ton:// links": {
+    "value": "Handle ton:// links"
+  },
+  "Back up wallet to have full access to it": {
+    "value": "Back up wallet to have full access to it"
+  },
+  "Improve wallet security": {
+    "value": "Improve wallet security"
+  },
+  "by installing browser extension or native app": {
+    "value": "by installing browser extension or native app"
+  },
+  "Scam": {
+    "value": "Scam"
+  },
+  "Scam comment is hidden.": {
+    "value": "Scam comment is hidden."
+  },
+  "Display": {
+    "value": "Display"
+  },
+  "$dapp_transfer_tokens_payload": {
+    "value": "Sending %amount% from your account to %address%"
+  },
+  "$dapp_transfer_nft_payload": {
+    "value": "Sending NFT \"%nft%\" from your account to %address%"
+  },
+  "Connected Dapps": {
+    "value": "Connected Dapps"
+  },
+  "Disconnect All Dapps": {
+    "value": "Disconnect All Dapps"
+  },
+  "Disconnect": {
+    "value": "Disconnect"
+  },
+  "Disconnect Dapp": {
+    "value": "Disconnect Dapp"
+  },
+  "Disconnect Dapps": {
+    "value": "Disconnect Dapps"
+  },
+  "Are you sure you want to disconnect?": {
+    "value": "Are you sure you want to disconnect %dappname%?"
+  },
+  "Are you sure you want to disconnect all websites?": {
+    "value": "Are you sure you want to disconnect all websites?"
+  },
+  "$dapps-description": {
+    "value": "You can log in on dapps that support MyTonWallet. They can view wallet address, balance, and request operations."
+  },
+  "Logged in with MyTonWallet": {
+    "value": "Logged in with MyTonWallet"
+  },
+  "No active connections": {
+    "value": "No active connections"
+  },
+  "Unstaked successfully": {
+    "value": "Unstaked successfully"
+  },
+  "Other": {
+    "value": "Other"
+  },
+  "Assets & Activity": {
+    "value": "Assets & Activity"
+  },
+  "Tokens Settings": {
+    "value": "Tokens Settings"
+  },
+  "Your Tokens": {
+    "value": "Your Tokens"
+  },
+  "Add Token": {
+    "value": "Add Token"
+  },
+  "Delete Token": {
+    "value": "Delete Token"
+  },
+  "Are you sure you want to delete?": {
+    "value": "Are you sure you want to delete %token%?"
+  },
+  "Hide Tokens With No Balance": {
+    "value": "Hide Tokens With No Balance"
+  },
+  "Hide Tokens With No Price": {
+    "value": "Hide Tokens With No Price"
+  },
+  "Sort By Value": {
+    "value": "Sort By Value"
+  },
+  "Update": {
+    "value": "Update"
+  },
+  "Restart": {
+    "value": "Restart"
+  },
+  "Update MyTonWallet": {
+    "value": "Update MyTonWallet"
+  },
+  "Connect Ledger": {
+    "value": "Connect Ledger"
+  },
+  "Connecting to your Ledger...": {
+    "value": "Connecting to your Ledger..."
+  },
+  "Failed to connect": {
+    "value": "Failed to connect"
+  },
+  "Ledger Connected!": {
+    "value": "Ledger Connected!"
+  },
+  "Select Ledger Wallets": {
+    "value": "Select Ledger Wallets"
+  },
+  "%1$d Selected": {
+    "value": "%1$d Selected"
+  },
+  "Add": {
+    "value": "Add"
+  },
+  "Try Again": {
+    "value": "Try Again"
+  },
+  "Driver": {
+    "value": "Driver"
+  },
+  "Connect your Ledger to PC": {
+    "value": "Connect your Ledger to PC"
+  },
+  "Unlock it and open the TON App": {
+    "value": "Unlock it and open the TON App"
+  },
+  "Maybe you need to check the password or change the driver.": {
+    "value": "Maybe you need to check the password or change the driver."
+  },
+  "Or import from...": {
+    "value": "Or import from..."
+  },
+  "Confirm via Ledger": {
+    "value": "Confirm via Ledger"
+  },
+  "Please confirm transaction on your Ledger": {
+    "value": "Please confirm transaction on your Ledger"
+  },
+  "Declined": {
+    "value": "Declined"
+  },
+  "Create Wallet": {
+    "value": "Create Wallet"
+  },
+  "Switch to the newly opened tab to connect Ledger.": {
+    "value": "Switch to the newly opened tab to connect Ledger."
+  },
+  "Once connected, switch back to this window to proceed.": {
+    "value": "Once connected, switch back to this window to proceed."
+  },
+  "Not all transactions were sent successfully": {
+    "value": "Not all transactions were sent successfully"
+  },
+  "The time on your device is incorrect, sync it and try again": {
+    "value": "The time on your device is incorrect, sync it and try again"
+  },
+  "Name or Address...": {
+    "value": "Name or Address..."
+  },
+  "Such error, many tabs": {
+    "value": "Such error, many tabs"
+  },
+  "$many_tabs_error_description": {
+    "value": "MyTonWallet supports only one active tab with the app.\nPlease reload this page to continue using this tab or close it.\n"
+  },
+  "Reload App": {
+    "value": "Reload App"
+  },
+  "Please confirm operation on your Ledger": {
+    "value": "Please confirm operation on your Ledger"
+  },
+  "Token Not Found": {
+    "value": "Token Not Found"
+  },
+  "Try another keyword or address.": {
+    "value": "Try another keyword or address."
+  },
+  "Decrypt": {
+    "value": "Decrypt"
+  },
+  "Encrypted Message": {
+    "value": "Encrypted Message"
+  },
+  "Message is encrypted.": {
+    "value": "Message is encrypted."
+  },
+  "$dapp_ledger_warning1": {
+    "value": "You are about to send a multi-way transaction using your **Ledger** wallet. You will need to sign each underlying transaction **one by one manually**."
+  },
+  "$dapp_ledger_warning2": {
+    "value": "Please take your time and do not interrupt the process."
+  },
+  "Agree": {
+    "value": "Agree"
+  },
+  "The hardware wallet does not support this data format": {
+    "value": "The hardware wallet does not support this data format"
+  }
+}

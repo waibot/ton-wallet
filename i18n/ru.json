@@ -1,0 +1,962 @@
+{
+  "$auth_intro": {
+    "value": "**Безопасно** храните криптовалюту и\nсовершайте платежи в блокчейне\n**со скоростью света**.\n"
+  },
+  "Create New Wallet": {
+    "value": "Создать новый кошелёк"
+  },
+  "Import From %1$d Secret Words": {
+    "value": "Восстановить из %1$d секретных слов"
+  },
+  "More about MyTonWallet": {
+    "value": "Подробнее о MyTonWallet"
+  },
+  "Creating Wallet...": {
+    "value": "Создаём кошелёк..."
+  },
+  "On the count of three...": {
+    "value": "Сосчитайте до трёх..."
+  },
+  "$auth_backup_description1": {
+    "value": "Вы создали новый **безопасный кошелёк**,\nдоступ к которому **есть только у вас**.\n"
+  },
+  "$auth_backup_description2": {
+    "value": "Однако важно помнить:\n**особые возможности**\nтребуют **особой ответственности**!\n"
+  },
+  "$auth_backup_description3": {
+    "value": "Сейчас необходимо сделать\n**резервную копию** секретных слов.\nЭто поможет, если вы потеряете доступ\nк этому устройству или забудете пароль.\n"
+  },
+  "Back Up": {
+    "value": "Показать слова"
+  },
+  "Skip For Now": {
+    "value": "Сделаю позже"
+  },
+  "Passwords must be equal.": {
+    "value": "Пароли не совпадают."
+  },
+  "To protect your wallet as much as possible, use a password with": {
+    "value": "Для обеспечения максимальной безопасности кошелька пароль должен содержать"
+  },
+  "$auth_password_rule_8chars": {
+    "value": "не менее 8 символов"
+  },
+  "$auth_password_rule_one_small_char": {
+    "value": "одну строчную букву"
+  },
+  "$auth_password_rule_one_capital_char": {
+    "value": "одну заглавную букву"
+  },
+  "$auth_password_rule_one_digit": {
+    "value": "одну цифру"
+  },
+  "$auth_password_rule_one_special_char": {
+    "value": "один символ"
+  },
+  "The wallet is imported": {
+    "value": "Кошелёк импортирован"
+  },
+  "The wallet is ready": {
+    "value": "Всё готово"
+  },
+  "Create a password to protect it.": {
+    "value": "А теперь создайте надёжный пароль."
+  },
+  "Enter your password": {
+    "value": "Введите пароль"
+  },
+  "Enter your password...": {
+    "value": "Введите пароль..."
+  },
+  "...and repeat it": {
+    "value": "...и ещё раз"
+  },
+  "Cancel": {
+    "value": "Отмена"
+  },
+  "Insecure Password": {
+    "value": "Ненадёжный пароль"
+  },
+  "Your have entered an insecure password, which can be easily guessed by scammers.": {
+    "value": "Ваш пароль недостаточно надёжный и может быть скомпрометирован."
+  },
+  "Continue or change password to something more secure?": {
+    "value": "Продолжить или изменить пароль на более надёжный?"
+  },
+  "Change": {
+    "value": "Изменить"
+  },
+  "%1$d Secret Words": {
+    "value": "%1$d секретных слова"
+  },
+  "$auth_import_mnemonic_description": {
+    "value": "Вы можете восстановить доступ к кошельку, используя %1$d секретных слова, которые вы сохранили при создании кошелька.\n"
+  },
+  "Let’s make sure your secrets words are recorded correctly.": {
+    "value": "Давайте убедимся, что все слова записаны правильно."
+  },
+  "$mnemonic_check_words_list": {
+    "value": "Пожалуйста, введите слова **%1$s** в соответствующие поля."
+  },
+  "$mnemonic_check_error": {
+    "value": "Введённые слова не совпадают со словами из списка. Попробуйте ещё раз."
+  },
+  "$mnemonic_list_description": {
+    "value": "Запишите слова\nв **правильном порядке** и сохраните их\n**в надёжном месте**.\n"
+  },
+  "Let's Check": {
+    "value": "Давайте проверим"
+  },
+  "Let's Check!": {
+    "value": "Давайте проверим!"
+  },
+  "Safety Rules": {
+    "value": "Правила безопасности"
+  },
+  "$safety_rules_one": {
+    "value": "Сейчас появятся **секретные слова**.\nЗапишите их в **правильном порядке** и сохраните в **надёжном месте**.\n"
+  },
+  "$safety_rules_two": {
+    "value": "Они позволяют **получить доступ к кошельку**, если вы забудете свой пароль или потеряете доступ к этому устройству."
+  },
+  "$safety_rules_three": {
+    "value": "Если кто-то увидит эти слова, ваши средства **могут быть украдены**. Убедитесь, что рядом никого нет! Даже кота."
+  },
+  "Understood": {
+    "value": "Понятно"
+  },
+  "Congratulations!": {
+    "value": "Поздравляем!"
+  },
+  "Continue": {
+    "value": "Продолжить"
+  },
+  "Close": {
+    "value": "Закрыть"
+  },
+  "Back": {
+    "value": "Назад"
+  },
+  "Search...": {
+    "value": "Поиск..."
+  },
+  "Main menu": {
+    "value": "Основное меню"
+  },
+  "TON Proxy": {
+    "value": "TON Proxy"
+  },
+  "Toggle TON Proxy": {
+    "value": "Переключить TON Proxy"
+  },
+  "TON Magic": {
+    "value": "TON Magic"
+  },
+  "Toggle TON Magic": {
+    "value": "Переключить TON Magic"
+  },
+  "Open Telegram Web": {
+    "value": "Открыть Telegram Web"
+  },
+  "Back Up Secret Words": {
+    "value": "Резервная копия"
+  },
+  "Settings": {
+    "value": "Настройки"
+  },
+  "About": {
+    "value": "О MyTonWallet"
+  },
+  "Exit": {
+    "value": "Выйти"
+  },
+  "Something went wrong": {
+    "value": "Упс, что-то пошло не так"
+  },
+  "Logo": {
+    "value": "Логотип"
+  },
+  "$about_description1": {
+    "value": "Безопасно храните криптовалюту, пользуйтесь децентрализованными приложениями и совершайте платежи в блокчейне **со скоростью света**."
+  },
+  "$about_description2": {
+    "value": "Кошелёк **управляется только вами**. Разработчики **не имеют доступа** к вашим средствам, истории браузера или любой другой информации."
+  },
+  "What is TON Proxy?": {
+    "value": "Что такое TON Proxy?"
+  },
+  "$about_extension_description1": {
+    "value": "TON Proxy предоставляет доступ к **децентрализованному интернету** и сайтам TON."
+  },
+  "More info and demo.": {
+    "value": "Больше информации и демо-версия."
+  },
+  "$about_extension_description2": {
+    "value": "TON Magic обеспечивает встроенную **интеграцию с Telegram**, используя официальную веб-версию."
+  },
+  "$about_extension_description3": {
+    "value": "Включить, чтобы отправлять и получать переводы от любого пользователя Telegram."
+  },
+  "$about_proxy_magic_title": {
+    "value": "А что насчёт %ninja% TON Proxy и %unicorn% TON Magic?"
+  },
+  "$about_proxy_magic_description": {
+    "value": "Чтобы наслаждаться **децентрализованным интернетом**, **сайтами TON** и встроенной **интеграцией с Telegram**, установите %extension_link%."
+  },
+  "$about_extension_link_text": {
+    "value": "**Расширение MyTonWallet**"
+  },
+  "Is it open source?": {
+    "value": "А исходный код открыт?"
+  },
+  "$about_wallet_github": {
+    "value": "Да, вот наш %github_link%."
+  },
+  "$about_github_link_text": {
+    "value": "**репозиторий в GitHub**"
+  },
+  "Is there a community?": {
+    "value": "Существует ли комьюнити?"
+  },
+  "$about_wallet_community": {
+    "value": "А как же, добро пожаловать в наш %community_link%."
+  },
+  "$about_community_link_text": {
+    "value": "**Telegram-канал**"
+  },
+  "Currency History": {
+    "value": "График курса"
+  },
+  "$add_account_description1": {
+    "value": "**MyTonWallet** позволяет легко переключаться между **несколькими учётными записями**\n"
+  },
+  "$add_account_description2": {
+    "value": "Добавьте **новый кошелёк** или\n**восстановите** любой из существующих,\nиспользуя 24 секретных слова.\n"
+  },
+  "Enter Password": {
+    "value": "Введите пароль"
+  },
+  "Send": {
+    "value": "Отправить"
+  },
+  "Add Wallet": {
+    "value": "Добавить"
+  },
+  "Done": {
+    "value": "Готово"
+  },
+  "Delete": {
+    "value": "Удалить"
+  },
+  "Delete Saved Address": {
+    "value": "Удалить сохранённый адрес"
+  },
+  "Are you sure you want to remove this address from your saved ones?": {
+    "value": "Уверены, что хотите удалить сохранённый адрес кошелька?"
+  },
+  "You will be able to save it again via Transaction Info with this address.": {
+    "value": "Вы сможете сохранить его снова, открыв любой перевод с этим адресом."
+  },
+  "Address removed from saved": {
+    "value": "Адрес кошелька удален из сохраненных"
+  },
+  "Warning!": {
+    "value": "Важно!"
+  },
+  "Log Out": {
+    "value": "Выход есть"
+  },
+  "$logout_without_backup_warning": {
+    "value": "Резервная копия кошелька не создана. Доступ к токенам и NFT будет ограничен, если вы выйдете из системы."
+  },
+  "$logout_accounts_without_backup_warning": {
+    "value": "Резервная копия не была создана для %links%. Если вы продолжите выход, доступ **может быть утерян**."
+  },
+  "$logout_warning": {
+    "value": "Кошелёк будет удалён только **на этом устройстве**. Вы всегда можете восстановить его, используя **%1$d секретных слова**."
+  },
+  "$logout_confirm": {
+    "value": "Выйти из **всех** кошельков"
+  },
+  "Receive TON": {
+    "value": "Получить TON"
+  },
+  "Your address was copied!": {
+    "value": "Адрес скопирован!"
+  },
+  "Show QR-Code": {
+    "value": "Показать QR-код"
+  },
+  "Create Invoice": {
+    "value": "Создать инвойс"
+  },
+  "QR-code": {
+    "value": "QR-код"
+  },
+  "$receive_invoice_description": {
+    "value": "Укажите сумму и назначение платежа,\nесли это необходимо.\n"
+  },
+  "Amount": {
+    "value": "Сумма"
+  },
+  "Comment": {
+    "value": "Комментарий"
+  },
+  "Share this URL to receive TON": {
+    "value": "Поделиться ссылкой"
+  },
+  "Invoice link was copied!": {
+    "value": "Ссылка скопирована!"
+  },
+  "US Dollar": {
+    "value": "Доллар США"
+  },
+  "Theme": {
+    "value": "Тема"
+  },
+  "Language": {
+    "value": "Язык"
+  },
+  "Enable Animations": {
+    "value": "Включить анимацию"
+  },
+  "Fiat Currency": {
+    "value": "Фиатная валюта"
+  },
+  "Investor View": {
+    "value": "Режим инвестора"
+  },
+  "Toggle Investor View": {
+    "value": "Переключить в режим инвестора"
+  },
+  "Hide Tiny Transfers": {
+    "value": "Скрывать мелкие переводы"
+  },
+  "Toggle Hide Tiny Transfers": {
+    "value": "Переключить отображение мелких переводов"
+  },
+  "Network": {
+    "value": "Сеть"
+  },
+  "Developer Options": {
+    "value": "Инструменты разработчика"
+  },
+  "Confirmation": {
+    "value": "Подтверждение"
+  },
+  "Data to sign": {
+    "value": "Данные для подтверждения и подписи"
+  },
+  "$signature_warning": {
+    "value": "Подписание данных влечет риски.\nИспользуйте эту опцию только, если вы уверены в своих действиях.\n"
+  },
+  "Sign": {
+    "value": "Подписать"
+  },
+  "Done!": {
+    "value": "Готово!"
+  },
+  "Signing was confirmed!": {
+    "value": "Подпись подтверждена!"
+  },
+  "Transaction Info": {
+    "value": "Информация о переводе"
+  },
+  "Transaction in progress": {
+    "value": "Перевод выполняется"
+  },
+  "Comment was copied!": {
+    "value": "Комментарий скопирован!"
+  },
+  "View Transaction on TON Explorer": {
+    "value": "Посмотреть перевод в TON Explorer"
+  },
+  "Sender": {
+    "value": "Отправитель"
+  },
+  "Recipient": {
+    "value": "Получатель"
+  },
+  "Address was copied!": {
+    "value": "Адрес скопирован!"
+  },
+  "Send Back": {
+    "value": "Вернуть"
+  },
+  "Repeat": {
+    "value": "Повторить"
+  },
+  "Receive": {
+    "value": "Получить"
+  },
+  "Switch Account": {
+    "value": "Сменить аккаунт"
+  },
+  "Copy wallet address": {
+    "value": "Скопировать адрес"
+  },
+  "View address on TON Explorer": {
+    "value": "Посмотреть адрес в TON Explorer"
+  },
+  "Open on CoinMarketCap": {
+    "value": "Открыть в CoinMarketCap"
+  },
+  "No Activity": {
+    "value": "Здесь пока пусто."
+  },
+  "You have just created a new wallet": {
+    "value": "Поздравляем! Вы только что создали новый кошелёк"
+  },
+  "You can now transfer your tokens from another wallet or exchange.": {
+    "value": "Теперь вы можете пополнить его с другого кошелька или биржи."
+  },
+  "Assets": {
+    "value": "Активы"
+  },
+  "Activity": {
+    "value": "Лента"
+  },
+  "NFT": {
+    "value": "NFT"
+  },
+  "No NFTs yet": {
+    "value": "Пока у вас нет NFT"
+  },
+  "$nft_explore_offer": {
+    "value": "Но вы можете просмотреть\nсуществующие коллекции.\n"
+  },
+  "Open Getgems": {
+    "value": "Открыть Getgems"
+  },
+  "Transaction is not completed": {
+    "value": "Перевод не выполнен"
+  },
+  "Received": {
+    "value": "Получено"
+  },
+  "Sent": {
+    "value": "Отправлено"
+  },
+  "$transaction_from": {
+    "value": "от %address%"
+  },
+  "$transaction_to": {
+    "value": "на %address%"
+  },
+  "Wallet is not backed up": {
+    "value": "Резервная копия кошелька не создана"
+  },
+  "Testnet Version": {
+    "value": "Версия Testnet"
+  },
+  "Error reading clipboard": {
+    "value": "Ошибка буфера обмена"
+  },
+  "$fee_value": {
+    "value": "Комиссия: %fee%"
+  },
+  "Loading...": {
+    "value": "Загрузка..."
+  },
+  "Recipient Address": {
+    "value": "Адрес получателя"
+  },
+  "Wallet address or domain": {
+    "value": "Адрес кошелька или домен"
+  },
+  "Incorrect address": {
+    "value": "Неверный адрес"
+  },
+  "Paste": {
+    "value": "Вставить"
+  },
+  "Insufficient balance": {
+    "value": "Недостаточный баланс"
+  },
+  "InsufficientBalance": {
+    "value": "Недостаточный баланс"
+  },
+  "Optional": {
+    "value": "Необязательно"
+  },
+  "$send_token_symbol": {
+    "value": "Отправить %1$s"
+  },
+  "$your_balance_is": {
+    "value": "Ваш баланс: %balance%"
+  },
+  "Is it all ok?": {
+    "value": "Всё верно?"
+  },
+  "Receiving Address": {
+    "value": "Адрес получателя"
+  },
+  "Fee": {
+    "value": "Комиссия"
+  },
+  "Edit": {
+    "value": "Исправить"
+  },
+  "Confirm": {
+    "value": "Подтвердить"
+  },
+  "Confirm Transaction": {
+    "value": "Подтвердите перевод"
+  },
+  "Coins have been sent!": {
+    "value": "Перевод отправлен!"
+  },
+  "Details": {
+    "value": "Инфо"
+  },
+  "Change password visibility": {
+    "value": "Изменить видимость пароля"
+  },
+  "Amount value": {
+    "value": "Значение"
+  },
+  "Save Address": {
+    "value": "Сохранить адрес"
+  },
+  "Name": {
+    "value": "Имя"
+  },
+  "Save": {
+    "value": "Сохранить"
+  },
+  "Copy": {
+    "value": "Скопировать"
+  },
+  "Remove From Saved Addresses": {
+    "value": "Удалить сохранённый адрес"
+  },
+  "Add To Saved Addresses": {
+    "value": "Добавить в Сохранённые адреса"
+  },
+  "View Address on TON Explorer": {
+    "value": "Открыть в TON Explorer"
+  },
+  "No suggestions, you're on your own!": {
+    "value": "Ничего не найдено :("
+  },
+  "Play Sounds": {
+    "value": "Включить звуки"
+  },
+  "Focus on asset value rather than current balance": {
+    "value": "Фокус на стоимости активов вместо текущего баланса"
+  },
+  "$tiny_transfers_help": {
+    "value": "Выключите этот параметр, чтобы отображать сделки менее %1$d %2$s. Имейте в виду, что такие сделки часто используются для спама и мошенничества."
+  },
+  "Today": {
+    "value": "Сегодня"
+  },
+  "Yesterday": {
+    "value": "Вчера"
+  },
+  "Now": {
+    "value": "Сейчас"
+  },
+  "$receive_ton_description": {
+    "value": "Вы можете поделиться этим адресом,\nотсканировать QR-код или создать инвойс\nдля получения TON\n"
+  },
+  "Your address": {
+    "value": "Ваш адрес"
+  },
+  "Wrong password, please try again": {
+    "value": "Неправильный пароль, попробуйте ещё раз"
+  },
+  "Appearance": {
+    "value": "Внешний вид"
+  },
+  "Light": {
+    "value": "Светлая"
+  },
+  "Dark": {
+    "value": "Тёмная"
+  },
+  "System": {
+    "value": "Системная"
+  },
+  "Create Backup": {
+    "value": "Резервная копия"
+  },
+  "Stake TON": {
+    "value": "Продолжить"
+  },
+  "Earn from your tokens while holding them": {
+    "value": "Получайте пассивный доход от хранения TON на надёжном официальном смарт-контракте"
+  },
+  "$est_apy_val": {
+    "value": "Доходность ~%1$d%"
+  },
+  "Why this is safe": {
+    "value": "Почему это безопасно"
+  },
+  "Why staking is safe?": {
+    "value": "Это точно безопасно?"
+  },
+  "$safe_staking_description1": {
+    "value": "Стейкинг **полностью децентрализован** и управляется **официальным смарт-контрактом** TON Nominator. Ни разработчики, ни кто-либо ещё **не имеет доступа** к средствам на вашем депозите."
+  },
+  "$safe_staking_description2": {
+    "value": "Ваш депозит будет использован для валидации транзакций в блокчейне в рамках механизма **proof-of-stake**."
+  },
+  "$safe_staking_description3": {
+    "value": "Вы можете вывести депозит с заработанными процентами **в любой момент** — средства переведутся на ваш основной счёт **в течение двух дней**."
+  },
+  "$min_value": {
+    "value": "Мин. %value%"
+  },
+  "Est. balance in a year": {
+    "value": "Ожидаемый баланс через год"
+  },
+  "Confirm Staking": {
+    "value": "Подтвердить"
+  },
+  "Confirm operation with your password": {
+    "value": "Введите пароль для подтверждения"
+  },
+  "Coins have been staked!": {
+    "value": "Депозит отправлен!"
+  },
+  "View": {
+    "value": "Обзор"
+  },
+  "Stake More": {
+    "value": "Добавить"
+  },
+  "Staking": {
+    "value": "Стейкинг"
+  },
+  "Currently Staked": {
+    "value": "Текущий депозит"
+  },
+  "Unstake": {
+    "value": "Вывести депозит"
+  },
+  "Earning History": {
+    "value": "История начислений"
+  },
+  "$total": {
+    "value": "Всего: %value%"
+  },
+  "Unstake TON": {
+    "value": "Вывести депозит"
+  },
+  "$unstake_information_with_time": {
+    "value": "Текущий депозит будет полностью отправлен обратно на ваш кошелёк через %time%."
+  },
+  "Amount to unstake": {
+    "value": "Сумма к выводу"
+  },
+  "Confirm Unstaking": {
+    "value": "Подтвердить вывод"
+  },
+  "Request for unstaking is sent!": {
+    "value": "Запрос на вывод депозита отправлен!"
+  },
+  "$unstaking_when_receive": {
+    "value": "Депозит будет выведен через %time%"
+  },
+  "$unstake_insufficient_balance": {
+    "value": "Вам необходимо иметь %balance% на вашем основном балансе, чтобы отправить заявку на вывод депозита."
+  },
+  "at APY %1$s%": {
+    "value": "при APY %1$s%"
+  },
+  "Staked": {
+    "value": "Стейкинг"
+  },
+  "Unstake Requested": {
+    "value": "Запрос депозита"
+  },
+  "Unstaked": {
+    "value": "Вывод стейка"
+  },
+  "The network fee has slightly changed, try sending again.": {
+    "value": "Комиссия за сеть немного изменилась, попробуйте отправить ещё раз."
+  },
+  "Transfer was unsuccessful. Try again later": {
+    "value": "С переводом что-то пошло не так. Попробуйте ещё раз."
+  },
+  "Unstaking was unsuccessful. Try again later": {
+    "value": "Не удалось вывести депозит. Попробуйте ещё раз."
+  },
+  "Staking was unsuccessful. Try again later": {
+    "value": "Не удалось внести депозит. Попробуйте ещё раз."
+  },
+  "Invalid amount": {
+    "value": "Некорректная сумма"
+  },
+  "Invalid address": {
+    "value": "Некорректный адрес"
+  },
+  "Domain is not connected to a wallet": {
+    "value": "Домен не подключен к кошельку"
+  },
+  "Unexpected error": {
+    "value": "Ошибочка вышла"
+  },
+  "Earn": {
+    "value": "Стейкинг"
+  },
+  "Earning": {
+    "value": "Стейкинг"
+  },
+  "InvalidAmount": {
+    "value": "Некорректная сумма"
+  },
+  "InvalidToAddress": {
+    "value": "Некорректный адрес получателя"
+  },
+  "DomainNotResolved": {
+    "value": "Ошибка резолвинга домена"
+  },
+  "You can save this address for quick access while sending.": {
+    "value": "Вы можете сохранить этот адрес для быстрого доступа при отправке."
+  },
+  "Stake Again": {
+    "value": "Stake Again"
+  },
+  "Earned": {
+    "value": "Earned"
+  },
+  "Connect Dapp": {
+    "value": "Подключить приложение"
+  },
+  "Select wallets to use on this dapp": {
+    "value": "Выберите кошельки для использования с этим приложением"
+  },
+  "Connect": {
+    "value": "Подключить"
+  },
+  "Dapp Permissions": {
+    "value": "Разрешения для приложения"
+  },
+  "$dapp_can_view_balance": {
+    "value": "Для %dappname% будет доступен ваш адрес кошелька и баланс."
+  },
+  "Send Transaction": {
+    "value": "Отправить перевод"
+  },
+  "Payload": {
+    "value": "Служебные данные"
+  },
+  "$many_transactions": {
+    "value": "%1$d перевода"
+  },
+  "Total Amount": {
+    "value": "Общая сумма"
+  },
+  "Unstaking": {
+    "value": "Unstaking"
+  },
+  "Handle ton:// links": {
+    "value": "Обрабатывать ссылки ton://"
+  },
+  "Back up wallet to have full access to it": {
+    "value": "Сделайте резервную копию кошелька, чтобы иметь к нему полный доступ"
+  },
+  "Improve wallet security": {
+    "value": "Повысьте безопасность кошелька"
+  },
+  "by installing browser extension or native app": {
+    "value": "установив расширение для браузера или приложение"
+  },
+  "Scam": {
+    "value": "Скам"
+  },
+  "Scam comment is hidden.": {
+    "value": "Скам комментарий скрыт."
+  },
+  "Display": {
+    "value": "Показать"
+  },
+  "$dapp_transfer_tokens_payload": {
+    "value": "Перевод %amount% с вашего аккаунта на %address%"
+  },
+  "$dapp_transfer_nft_payload": {
+    "value": "Отправка NFT \"%nft%\" с вашего аккаунта на %address%"
+  },
+  "Nested Transaction": {
+    "value": "Вложенная транзакция"
+  },
+  "Connected Dapps": {
+    "value": "Подключенные приложения"
+  },
+  "Disconnect All Dapps": {
+    "value": "Отключить все приложения"
+  },
+  "Disconnect": {
+    "value": "Отключить"
+  },
+  "Disconnect Dapp": {
+    "value": "Отключить приложение"
+  },
+  "Disconnect Dapps": {
+    "value": "Отключить приложения"
+  },
+  "Are you sure you want to disconnect?": {
+    "value": "Вы уверены, что хотите отключить %dappname%?"
+  },
+  "Are you sure you want to disconnect all websites?": {
+    "value": "Вы уверены, что хотите отключить все сайты?"
+  },
+  "$dapps-description": {
+    "value": "Вы можете подключиться к децентрализованным приложениям, поддерживающим MyTonWallet. Они могут просматривать адрес кошелька, баланс и запрашивать операции."
+  },
+  "Logged in with MyTonWallet": {
+    "value": "Подключены с помощью MyTonWallet"
+  },
+  "No active connections": {
+    "value": "Нет активных подключений"
+  },
+  "Unstaked successfully": {
+    "value": "Депозит выведен успешно"
+  },
+  "Other": {
+    "value": "Другие"
+  },
+  "Assets & Activity": {
+    "value": "Активы & Лента"
+  },
+  "Tokens Settings": {
+    "value": "Настройки токенов"
+  },
+  "Your Tokens": {
+    "value": "Ваши токены"
+  },
+  "Add Token": {
+    "value": "Добавить токен"
+  },
+  "Delete Token": {
+    "value": "Удалить токен"
+  },
+  "Are you sure you want to delete?": {
+    "value": "Вы уверены, что хотите удалить %token%?"
+  },
+  "Hide Tokens With No Balance": {
+    "value": "Скрыть токены без баланса"
+  },
+  "Hide Tokens With No Price": {
+    "value": "Скрыть токены без цены"
+  },
+  "Sort By Value": {
+    "value": "Сортировать по сумме"
+  },
+  "Update": {
+    "value": "Обновить"
+  },
+  "Restart": {
+    "value": "Перезапустить"
+  },
+  "Update MyTonWallet": {
+    "value": "Обновить MyTonWallet"
+  },
+  "Connect Ledger": {
+    "value": "Подключить Ledger"
+  },
+  "Connecting to your Ledger...": {
+    "value": "Подключение к Ledger..."
+  },
+  "Failed to connect": {
+    "value": "Не удалось подключиться"
+  },
+  "Ledger Connected!": {
+    "value": "Ledger подключен!"
+  },
+  "Select Ledger Wallets": {
+    "value": "Выберите кошельки Ledger"
+  },
+  "%1$d Selected": {
+    "value": "%1$d Выбрано"
+  },
+  "Add": {
+    "value": "Добавить"
+  },
+  "Try Again": {
+    "value": "Повторить"
+  },
+  "Driver": {
+    "value": "Драйвер"
+  },
+  "Connect your Ledger to PC": {
+    "value": "Подключите ваш Ledger к компьютеру"
+  },
+  "Unlock it and open the TON App": {
+    "value": "Разблокируйте его и откройте приложение TON"
+  },
+  "Maybe you need to check the password or change the driver.": {
+    "value": "Возможно, вам нужно проверить пароль или сменить драйвер."
+  },
+  "Or import from...": {
+    "value": "Или импортировать из..."
+  },
+  "Confirm via Ledger": {
+    "value": "Подтвердить через Ledger"
+  },
+  "Please confirm transaction on your Ledger": {
+    "value": "Пожалуйста, подтвердите транзакцию в вашем Ledger"
+  },
+  "Declined": {
+    "value": "Отклонено"
+  },
+  "Create Wallet": {
+    "value": "Создать кошелек"
+  },
+  "Switch to the newly opened tab to connect Ledger.": {
+    "value": "Переключитесь на только что открытую вкладку, чтобы подключить Ledger."
+  },
+  "Once connected, switch back to this window to proceed.": {
+    "value": "После подключения вернитесь в это окно, чтобы продолжить."
+  },
+  "Not all transactions were sent successfully": {
+    "value": "Не все транзакции были успешно отправлены"
+  },
+  "The time on your device is incorrect, sync it and try again": {
+    "value": "Время на вашем устройстве некорректно, синхронизируйте его и попробуйте снова"
+  },
+  "Name or Address...": {
+    "value": "Имя или Адрес..."
+  },
+  "Such error, many tabs": {
+    "value": "Такая ошибка, много вкладок"
+  },
+  "$many_tabs_error_description": {
+    "value": "MyTonWallet поддерживает только одну активную вкладку с приложением.\nПожалуйста, перезагрузите эту страницу, чтобы продолжить использовать эту вкладку, или закройте её.\n"
+  },
+  "Reload App": {
+    "value": "Перезагрузить приложение"
+  },
+  "Please confirm operation on your Ledger": {
+    "value": "Пожалуйста, подтвердите операцию на вашем Ledger"
+  },
+  "Token Not Found": {
+    "value": "Токен не найден"
+  },
+  "Try another keyword or address.": {
+    "value": "Попробуйте другое ключевое слово или адрес."
+  },
+  "Decrypt": {
+    "value": "Расшифровать"
+  },
+  "Encrypted Message": {
+    "value": "Зашифрованное сообщение"
+  },
+  "Message is encrypted.": {
+    "value": "Сообщение зашифровано."
+  },
+  "$dapp_ledger_warning1": {
+    "value": "Вы собираетесь отправить многоадресную транзакцию, используя свой кошелек **Ledger**. Вам нужно будет подписать каждую базовую транзакцию **по одной вручную**."
+  },
+  "$dapp_ledger_warning2": {
+    "value": "Пожалуйста, не торопитесь и не прерывайте процесс."
+  },
+  "Agree": {
+    "value": "Согласен"
+  },
+  "The hardware wallet does not support this data format": {
+    "value": "Аппаратный кошелек не поддерживает данный формат данных"
+  }
+}

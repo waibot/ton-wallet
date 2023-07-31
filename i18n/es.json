@@ -1,0 +1,971 @@
+{
+  "$auth_intro": {
+    "value": "**De forma segura** almacene criptomonedas\ny realice pagos blockchain\na la **velocidad de la luz**.\n"
+  },
+  "Create New Wallet": {
+    "value": "Crear un monedero nuevo"
+  },
+  "Import From %1$d Secret Words": {
+    "value": "Importar usando la frase semilla"
+  },
+  "About MyTonWallet": {
+    "value": "Acerca de MyTonWallet"
+  },
+  "Creating Wallet...": {
+    "value": "Creando monedero..."
+  },
+  "On the count of three...": {
+    "value": "A la cuenta de tres..."
+  },
+  "$auth_backup_description1": {
+    "value": "Este es un **monedero seguro**\ny **totalmente bajo su control**.\n"
+  },
+  "$auth_backup_description2": {
+    "value": "Y un gran poder conlleva una **gran responsabilidad**."
+  },
+  "$auth_backup_description3": {
+    "value": "Debe hacer manualmente una **copia de seguridad de la frase semilla** que le permitirá recuperar su monedero en caso de que olvide su contraseña o pierda el acceso a este dispositivo.\n"
+  },
+  "Back Up": {
+    "value": "Hacer copia de seguridad"
+  },
+  "Skip For Now": {
+    "value": "Omitir por ahora"
+  },
+  "Passwords must be equal.": {
+    "value": "Las contraseñas deben coincidir."
+  },
+  "To protect your wallet as much as possible, use a password with": {
+    "value": "Para la máxima protección de su monedero, use una contraseña con"
+  },
+  "$auth_password_rule_8chars": {
+    "value": "al menos 8 caracteres"
+  },
+  "$auth_password_rule_one_small_char": {
+    "value": "una letra minúscula"
+  },
+  "$auth_password_rule_one_capital_char": {
+    "value": "una letra mayúscula"
+  },
+  "$auth_password_rule_one_digit": {
+    "value": "un dígito"
+  },
+  "$auth_password_rule_one_special_char": {
+    "value": "y un carácter especial"
+  },
+  "The wallet is imported": {
+    "value": "Importando monedero"
+  },
+  "The wallet is ready": {
+    "value": "El monedero está listo"
+  },
+  "Create a password to protect it.": {
+    "value": "Cree una contraseña para protegerlo."
+  },
+  "Enter your password": {
+    "value": "Ingresa la contraseña"
+  },
+  "Enter your password...": {
+    "value": "Ingresa la contraseña..."
+  },
+  "...and repeat it": {
+    "value": "...y vuelva a ingresarla"
+  },
+  "Cancel": {
+    "value": "Cancelar"
+  },
+  "Insecure Password": {
+    "value": "Contraseña insegura"
+  },
+  "Your have entered an insecure password, which can be easily guessed by scammers.": {
+    "value": "Ha ingresado una contraseña insegura, que puede ser fácilmente adivinada por los estafadores."
+  },
+  "Continue or change password to something more secure?": {
+    "value": "¿Continuar o cambiar la contraseña a una más segura?"
+  },
+  "Change": {
+    "value": "Cambiar"
+  },
+  "%1$d Secret Words": {
+    "value": "Frases Semilla"
+  },
+  "$auth_import_mnemonic_description": {
+    "value": "Puede restaurar el acceso a su monedero ingresando la frase semilla que guardó al crearla.\n"
+  },
+  "Let’s make sure your secrets words are recorded correctly.": {
+    "value": "Asegurémonos de que hayas guardado la frase semilla correctamente."
+  },
+  "$mnemonic_check_words_list": {
+    "value": "Introduce las **%1$s** palabras de la frase semilla a continuación."
+  },
+  "$mnemonic_check_error": {
+    "value": "La frases semilla que ha introducido no coinciden. Inténtalo de nuevo."
+  },
+  "$mnemonic_list_description": {
+    "value": "Escriba estas palabras en\nel **mismo orden** y guárdelas\nen un **lugar seguro**.\n"
+  },
+  "Let's Check": {
+    "value": "Revisemos"
+  },
+  "Let's Check!": {
+    "value": "¡Revisemos!"
+  },
+  "Safety Rules": {
+    "value": "Normas de seguridad"
+  },
+  "$safety_rules_one": {
+    "value": "En la siguiente pantalla verás las %1$s palabras de la **frase semilla**. Escríbalas en el mismo orden y **guárdelas en un lugar seguro**.\n"
+  },
+  "$safety_rules_two": {
+    "value": "Permiten **acceder a su mondero** si pierde su contraseña o el acceso a este dispositivo."
+  },
+  "$safety_rules_three": {
+    "value": "Si alguien más las ve, sus activos **pueden ser robados**. ¡Mire a su alrededor!"
+  },
+  "Understood": {
+    "value": "Entiendo"
+  },
+  "Congratulations!": {
+    "value": "¡Felicidades!"
+  },
+  "Continue": {
+    "value": "Continuar"
+  },
+  "Close": {
+    "value": "Cerrar"
+  },
+  "Back": {
+    "value": "Volver"
+  },
+  "Search...": {
+    "value": "Buscar..."
+  },
+  "Main menu": {
+    "value": "Menú principal"
+  },
+  "TON Proxy": {
+    "value": "TON Proxy"
+  },
+  "Toggle TON Proxy": {
+    "value": "Alternar TON Proxy"
+  },
+  "TON Magic": {
+    "value": "TON Magic"
+  },
+  "Toggle TON Magic": {
+    "value": "Alternar TON Magic"
+  },
+  "Open Telegram Web": {
+    "value": "Abrir Telegram Web"
+  },
+  "Back Up Secret Words": {
+    "value": "Copia de seguridad"
+  },
+  "Settings": {
+    "value": "Configuración"
+  },
+  "About": {
+    "value": "Acerca de"
+  },
+  "Exit": {
+    "value": "Salir"
+  },
+  "Something went wrong": {
+    "value": "Oops! Algo salió mal"
+  },
+  "Logo": {
+    "value": "Logotipo"
+  },
+  "$about_description1": {
+    "value": "Almacene criptomonedas de forma segura, explore aplicaciones descentralizadas y realice pagos blockchain a la **velocidad de la luz**."
+  },
+  "$about_description2": {
+    "value": "Un monedero **sin custodia y seguro**. Los desarrolladores **no** tienen acceso a sus activos, historial del navegador o cualquier otra información."
+  },
+  "What is TON Proxy?": {
+    "value": "¿Qué es el TON Proxy?"
+  },
+  "$about_extension_description1": {
+    "value": "TON Proxy abre un camino al **Internet descentralizado** al permitir acceder anónimamente a TON Sites."
+  },
+  "More info and demo.": {
+    "value": "Más información y demo."
+  },
+  "$about_extension_description2": {
+    "value": "TON Magic proporciona **integración nativa con Telegram** parcheando la aplicación web oficial de Telegram."
+  },
+  "$about_extension_description3": {
+    "value": "Actívalo para enviar y recibir Toncoins de cualquier usuario de Telegram."
+  },
+  "$about_proxy_magic_title": {
+    "value": "¿Qué pasa con %ninja% TON Proxy y %unicorn% TON Magic?"
+  },
+  "$about_proxy_magic_description": {
+    "value": "Para disfrutar de **Internet descentralizado**, acceder a **TON Sites**, y aprovechar la **integración nativa de Telegram**, no dude en instalar la %extension_link%."
+  },
+  "$about_extension_link_text": {
+    "value": "**extensión MyTonWallet**"
+  },
+  "Is it open source?": {
+    "value": "¿Es de código abierto?"
+  },
+  "$about_wallet_github": {
+    "value": "Sí. Siéntase libre de explorar nuestro %github_link%."
+  },
+  "$about_github_link_text": {
+    "value": "**repositorio de GitHub**"
+  },
+  "Is there a community?": {
+    "value": "¿Hay una comunidad?"
+  },
+  "$about_wallet_community": {
+    "value": "Claro, bienvenido a nuestro %community_link%."
+  },
+  "$about_community_link_text": {
+    "value": "**canal de Telegram**"
+  },
+  "Currency History": {
+    "value": "Historia del activo"
+  },
+  "$add_account_description1": {
+    "value": "**MyTonWallet** te permite cambiar sin problemas\nentre **varios monederos**.\n"
+  },
+  "$add_account_description2": {
+    "value": "Pruébalo **creando** un nuevo monedero,\no **importando** otro\nusando la frase semilla.\n"
+  },
+  "Enter Password": {
+    "value": "Introduce la contraseña"
+  },
+  "Send": {
+    "value": "Enviar"
+  },
+  "Add Wallet": {
+    "value": "Agregar monedero"
+  },
+  "Done": {
+    "value": "Listo"
+  },
+  "Delete": {
+    "value": "Borrar"
+  },
+  "Delete Saved Address": {
+    "value": "Eliminar dirección guardada"
+  },
+  "Are you sure you want to remove this address from your saved ones?": {
+    "value": "¿Está seguro de que desea eliminar esta dirección?"
+  },
+  "You will be able to save it again via Transaction Info with this address.": {
+    "value": "Podrá guardarla nuevamente a través de la información de una transacción con esta dirección."
+  },
+  "Address removed from saved": {
+    "value": "Dirección guardada eliminada"
+  },
+  "Warning!": {
+    "value": "¡Advertencia!"
+  },
+  "Log Out": {
+    "value": "Cerrar sesión"
+  },
+  "$logout_without_backup_warning": {
+    "value": "No ha realizado copia de seguridad de este monedero. Si cierra sesión, perderá el acceso a sus activos."
+  },
+  "$logout_accounts_without_backup_warning": {
+    "value": "No ha realizado copia de seguridad de %links%. Si cierra sesión, perderá el acceso a sus activos."
+  },
+  "$logout_warning": {
+    "value": "Esto desconectará el monedero de esta aplicación. Podrá restaurar su monedero usando la frase semilla..."
+  },
+  "Receive TON": {
+    "value": "Recibir TON"
+  },
+  "Your address was copied!": {
+    "value": "¡Su dirección fue copiada!"
+  },
+  "Show QR-Code": {
+    "value": "Mostrar código QR"
+  },
+  "Create Invoice": {
+    "value": "Crear factura"
+  },
+  "QR-code": {
+    "value": "Código QR"
+  },
+  "$receive_invoice_description": {
+    "value": "Puede especificar la cantidad y\nel propósito del pago para ahorrar tiempo al remitente\n"
+  },
+  "Amount": {
+    "value": "Cantidad"
+  },
+  "Comment": {
+    "value": "Comentario"
+  },
+  "Share this URL to receive TON": {
+    "value": "Comparte esta URL para recibir TON"
+  },
+  "Invoice link was copied!": {
+    "value": "¡Se copió el enlace de la factura!"
+  },
+  "US Dollar": {
+    "value": "Dólar estadounidense"
+  },
+  "Theme": {
+    "value": "Tema"
+  },
+  "Language": {
+    "value": "Idioma"
+  },
+  "Enable Animations": {
+    "value": "Habilitar animaciones"
+  },
+  "Fiat Currency": {
+    "value": "Moneda fíat"
+  },
+  "Investor View": {
+    "value": "Modo Inversor"
+  },
+  "Toggle Investor View": {
+    "value": "Alternar Modo Inversor"
+  },
+  "Hide Tiny Transfers": {
+    "value": "Ocultar transacciones pequeñas"
+  },
+  "Toggle Hide Tiny Transfers": {
+    "value": "Alternar ocultar transacciones pequeñas"
+  },
+  "Network": {
+    "value": "Red"
+  },
+  "Developer Options": {
+    "value": "Opciones de desarrollador"
+  },
+  "Confirmation": {
+    "value": "Confirmar"
+  },
+  "Data to sign": {
+    "value": "Datos a firmar"
+  },
+  "$signature_warning": {
+    "value": "Firmar datos personalizados es muy peligroso.\nÚselo solo si sabe lo que está haciendo.\n"
+  },
+  "Sign": {
+    "value": "Firmar"
+  },
+  "Done!": {
+    "value": "¡Listo!"
+  },
+  "Signing was confirmed!": {
+    "value": "¡La firma fue confirmada!"
+  },
+  "Transaction Info": {
+    "value": "Información de la transacción"
+  },
+  "Transaction in progress": {
+    "value": "Transacción en curso"
+  },
+  "Comment was copied!": {
+    "value": "¡El comentario fue copiado!"
+  },
+  "View Transaction on TON Explorer": {
+    "value": "Ver transacción en TON Explorer"
+  },
+  "Sender": {
+    "value": "Remitente"
+  },
+  "Recipient": {
+    "value": "Receptor"
+  },
+  "Address was copied!": {
+    "value": "¡Se copió la dirección!"
+  },
+  "Send Back": {
+    "value": "Devolver"
+  },
+  "Repeat": {
+    "value": "Repetir"
+  },
+  "Receive": {
+    "value": "Recibir"
+  },
+  "Switch Account": {
+    "value": "Cambiar de monedero"
+  },
+  "Copy wallet address": {
+    "value": "Copiar la dirección del monedero"
+  },
+  "View address on TON Explorer": {
+    "value": "Ver dirección en TON Explorer"
+  },
+  "Open on CoinMarketCap": {
+    "value": "Abrir en CoinMarketCap"
+  },
+  "No Activity": {
+    "value": "Sin actividad"
+  },
+  "You have just created a new wallet": {
+    "value": "Acabas de crear un nuevo monedero"
+  },
+  "You can now transfer your tokens from another wallet or exchange.": {
+    "value": "Ahora puede transferir sus tokens desde otro monedero o intercambio."
+  },
+  "Assets": {
+    "value": "Activos"
+  },
+  "Activity": {
+    "value": "Actividad"
+  },
+  "NFT": {
+    "value": "NFT"
+  },
+  "No NFTs yet": {
+    "value": "Aún no tienes NFT"
+  },
+  "$nft_explore_offer": {
+    "value": "Explore los mercados para descubrir\nnuevas colecciones NFT.\n"
+  },
+  "Open Getgems": {
+    "value": "Abrir Getgems"
+  },
+  "Transaction is not completed": {
+    "value": "La transacción no se ha completado"
+  },
+  "Received": {
+    "value": "Recibido"
+  },
+  "Sent": {
+    "value": "Enviado"
+  },
+  "$transaction_from": {
+    "value": "de %address%"
+  },
+  "$transaction_to": {
+    "value": "a %address%"
+  },
+  "Wallet is not backed up": {
+    "value": "El monedero no está respaldado"
+  },
+  "Testnet Version": {
+    "value": "Versión Testnet"
+  },
+  "Error reading clipboard": {
+    "value": "Error al leer el portapapeles"
+  },
+  "$fee_value": {
+    "value": "Comisión: %fee%"
+  },
+  "Loading...": {
+    "value": "Cargando..."
+  },
+  "Recipient Address": {
+    "value": "Dirección del destinatario"
+  },
+  "Wallet address or domain": {
+    "value": "Dirección o dominio del monedero"
+  },
+  "Incorrect address": {
+    "value": "Dirección incorrecta"
+  },
+  "Paste": {
+    "value": "Pegar"
+  },
+  "Insufficient balance": {
+    "value": "Saldo insuficiente"
+  },
+  "InsufficientBalance": {
+    "value": "Saldo insuficiente"
+  },
+  "Optional": {
+    "value": "Opcional"
+  },
+  "$send_token_symbol": {
+    "value": "Enviar %1$s"
+  },
+  "$your_balance_is": {
+    "value": "Su saldo: %balance%"
+  },
+  "Is it all ok?": {
+    "value": "¿Está todo bien?"
+  },
+  "Receiving Address": {
+    "value": "Dirección del receptor"
+  },
+  "Fee": {
+    "value": "Comisión"
+  },
+  "Edit": {
+    "value": "Editar"
+  },
+  "Confirm": {
+    "value": "Confirmar"
+  },
+  "Confirm Transaction": {
+    "value": "Confirmar transacción"
+  },
+  "Coins have been sent!": {
+    "value": "¡Se han enviado monedas!"
+  },
+  "Details": {
+    "value": "Detalles"
+  },
+  "Change password visibility": {
+    "value": "Cambiar la visibilidad de la contraseña"
+  },
+  "Amount value": {
+    "value": "Valor de la cantidad"
+  },
+  "Save Address": {
+    "value": "Guardar dirección"
+  },
+  "Name": {
+    "value": "Nombre"
+  },
+  "Save": {
+    "value": "Guardar"
+  },
+  "Copy": {
+    "value": "Copiar"
+  },
+  "Remove From Saved Addresses": {
+    "value": "Eliminar de direcciones guardadas"
+  },
+  "Add To Saved Addresses": {
+    "value": "Agregar a direcciones guardadas"
+  },
+  "View Address on TON Explorer": {
+    "value": "Ver dirección en TON Explorer"
+  },
+  "No suggestions, you're on your own!": {
+    "value": "Sin sugerencias, ¡estás solo!"
+  },
+  "Play Sounds": {
+    "value": "Reproducir sonidos"
+  },
+  "Focus on asset value rather than current balance": {
+    "value": "Centrarse en el valor de los activos en lugar del saldo actual"
+  },
+  "$logout_confirm": {
+    "value": "Cerrar sesión en **todos** los monederos"
+  },
+  "$logout_warning2": {
+    "value": "Los monederos se encuentran en la cadena de bloques descentralizada de TON. Si desea que se elimine el monedero, simplemente transfiera todos los activos y déjela completamente vacía."
+  },
+  "$tiny_transfers_help": {
+    "value": "Desactive esta opción para mostrar transacciones de menos de %1$d %2$s. Tenga en cuenta que tales transacciones se utilizan a menudo con fines de spam y estafa."
+  },
+  "Today": {
+    "value": "Hoy"
+  },
+  "Yesterday": {
+    "value": "Ayer"
+  },
+  "Now": {
+    "value": "Ahora"
+  },
+  "$receive_ton_description": {
+    "value": "Puede compartir esta dirección, mostrar el código QR\no crear una factura para recibir TON\n"
+  },
+  "Your address": {
+    "value": "Tu dirección"
+  },
+  "Wrong password, please try again": {
+    "value": "Contraseña incorrecta, inténtalo de nuevo"
+  },
+  "Appearance": {
+    "value": "Apariencia"
+  },
+  "Assets and Activity": {
+    "value": "Activos y Actividad"
+  },
+  "Light": {
+    "value": "Claro"
+  },
+  "Dark": {
+    "value": "Oscuro"
+  },
+  "System": {
+    "value": "Sistema"
+  },
+  "Create Backup": {
+    "value": "Crear copia de seguridad"
+  },
+  "Stake TON": {
+    "value": "Apostar TON"
+  },
+  "Earn from your tokens while holding them": {
+    "value": "Gana con tus tokens mientras los mantienes"
+  },
+  "$est_apy_val": {
+    "value": "Est. APY %1$d%"
+  },
+  "Why this is safe": {
+    "value": "Por qué esto es seguro"
+  },
+  "Why staking is safe?": {
+    "value": "¿Por qué el staking es seguro?"
+  },
+  "$safe_staking_description1": {
+    "value": "El staking es **totalmente descentralizado** y operado por los **nominadores oficiales de TON**. Nadie puede obtener acceso a sus tokens en staking."
+  },
+  "$safe_staking_description2": {
+    "value": "La participación depositada se utilizará para la validación de la red TON como parte de su esencia de **prueba de participación**."
+  },
+  "$safe_staking_description3": {
+    "value": "Puede retirar su apuesta en **cualquier momento** y se depositará de nuevo en su cuenta dentro de **dos días**."
+  },
+  "$min_value": {
+    "value": "Min %value%"
+  },
+  "Est. balance in a year": {
+    "value": "Saldo estimado en un año"
+  },
+  "Confirm Staking": {
+    "value": "Confirmar staking"
+  },
+  "Confirm operation with your password": {
+    "value": "Confirme la operación con su contraseña"
+  },
+  "Coins have been staked!": {
+    "value": "¡Has apostado monedas!"
+  },
+  "View": {
+    "value": "Ver"
+  },
+  "Stake More": {
+    "value": "Apostar más"
+  },
+  "Staking": {
+    "value": "Staking"
+  },
+  "Currently Staked": {
+    "value": "Apostados actualmente"
+  },
+  "Unstake": {
+    "value": "Retirar"
+  },
+  "Earning History": {
+    "value": "Historial de ganancias"
+  },
+  "$total": {
+    "value": "Total: %value%"
+  },
+  "Unstake TON": {
+    "value": "Retirar TON"
+  },
+  "$unstake_information_with_time": {
+    "value": "Su depósito actual será enviado completamente a su monedero en %time%.\nEsto detendrá sus ganancias.\n"
+  },
+  "Amount to unstake": {
+    "value": "Cantidad a retirar"
+  },
+  "Confirm Unstaking": {
+    "value": "Confirmar retiro"
+  },
+  "Request for unstaking is sent!": {
+    "value": "¡Se envía una solicitud de retiro!"
+  },
+  "$unstaking_when_receive": {
+    "value": "Recibirá su depósito apostado en %time%"
+  },
+  "$unstake_insufficient_balance": {
+    "value": "Debe tener %balance% en su saldo principal para proceder con la confirmación del retiro."
+  },
+  "at APY %1$s%": {
+    "value": "en APY %1$s%"
+  },
+  "Staked": {
+    "value": "Apostado"
+  },
+  "Unstake Requested": {
+    "value": "Retiro solicitado"
+  },
+  "Unstaked": {
+    "value": "Retirado"
+  },
+  "The network fee has slightly changed, try sending again.": {
+    "value": "La comisión de red ha cambiado ligeramente, inténtalo de nuevo."
+  },
+  "Transfer was unsuccessful. Try again later": {
+    "value": "La transferencia no tuvo éxito. Inténtalo de nuevo más tarde"
+  },
+  "Unstaking was unsuccessful. Try again later": {
+    "value": "El retiro no tuvo éxito. Inténtalo de nuevo más tarde"
+  },
+  "Staking was unsuccessful. Try again later": {
+    "value": "El staking no tuvo éxito. Inténtalo de nuevo más tarde"
+  },
+  "Invalid amount": {
+    "value": "Cantidad no válida"
+  },
+  "Invalid address": {
+    "value": "Dirección no válida"
+  },
+  "Domain is not connected to a wallet": {
+    "value": "El dominio no está conectado a un monedero"
+  },
+  "Unexpected error": {
+    "value": "Error inesperado"
+  },
+  "Earn": {
+    "value": "Ganar"
+  },
+  "Earning": {
+    "value": "Ganando"
+  },
+  "InvalidAmount": {
+    "value": "Cantidad no válida"
+  },
+  "InvalidToAddress": {
+    "value": "Dirección de destinatario no válida"
+  },
+  "Unexpected": {
+    "value": "Error inesperado"
+  },
+  "DomainNotResolved": {
+    "value": "Dominio no válido"
+  },
+  "You can save this address for quick access while sending.": {
+    "value": "Puede guardar esta dirección como acceso rápido mientras envía."
+  },
+  "Stake Again": {
+    "value": "Apostar de nuevo"
+  },
+  "Earned": {
+    "value": "Ganado"
+  },
+  "Connect Dapp": {
+    "value": "Conectar Dapp"
+  },
+  "Select wallets to use on this dapp": {
+    "value": "Seleccione monederos para usar en esta dapp"
+  },
+  "Connect": {
+    "value": "Conectar"
+  },
+  "Dapp Permissions": {
+    "value": "Permisos de la Dapp"
+  },
+  "$dapp_can_view_balance": {
+    "value": "%dappname% podrá ver la dirección y el saldo del monedero."
+  },
+  "Send Transaction": {
+    "value": "Enviar transacción"
+  },
+  "Payload": {
+    "value": "Carga útil"
+  },
+  "$many_transactions": {
+    "value": "%1$d transacciones"
+  },
+  "Total Amount": {
+    "value": "Cantidad total"
+  },
+  "Unstaking": {
+    "value": "Retirando"
+  },
+  "Handle ton:// links": {
+    "value": "Habilitar enlaces ton://"
+  },
+  "Back up wallet to have full access to it": {
+    "value": "Haga una copia de seguridad del monedero para tener acceso completo al mismo"
+  },
+  "Improve wallet security": {
+    "value": "Mejore la seguridad del monedero"
+  },
+  "by installing browser extension or native app": {
+    "value": "instalando una extensión de navegador o una aplicación nativa"
+  },
+  "Scam": {
+    "value": "Estafa"
+  },
+  "Scam comment is hidden.": {
+    "value": "El comentario estafa está oculto."
+  },
+  "Display": {
+    "value": "Mostrar"
+  },
+  "$dapp_transfer_tokens_payload": {
+    "value": "Enviando %amount% desde su monedero a %address%"
+  },
+  "$dapp_transfer_nft_payload": {
+    "value": "Enviando el NFT \"%nft%\" desde su monedero a %address%"
+  },
+  "Nested Transaction": {
+    "value": "Transacción anidada"
+  },
+  "Connected Dapps": {
+    "value": "Dapps conectadas"
+  },
+  "Disconnect All Dapps": {
+    "value": "Desconectar todas las Dapps"
+  },
+  "Disconnect": {
+    "value": "Desconectar"
+  },
+  "Disconnect Dapp": {
+    "value": "Desconectar Dapp"
+  },
+  "Disconnect Dapps": {
+    "value": "Desconectar Dapps"
+  },
+  "Are you sure you want to disconnect?": {
+    "value": "¿Estás seguro de que quieres desconectar %dappname%?"
+  },
+  "Are you sure you want to disconnect all websites?": {
+    "value": "¿Estás seguro de que quieres desconectar todas las dapps?"
+  },
+  "$dapps-description": {
+    "value": "Puede iniciar sesión en dapps compatibles con MyTonWallet. Pueden ver la dirección del monedero, el saldo y solicitar operaciones."
+  },
+  "Logged in with MyTonWallet": {
+    "value": "Conectado con MyTonWallet"
+  },
+  "No active connections": {
+    "value": "No hay conexiones activas"
+  },
+  "Unstaked successfully": {
+    "value": "Desembolsado con éxito"
+  },
+  "Other": {
+    "value": "Otros"
+  },
+  "Assets & Activity": {
+    "value": "Activos & Actividad"
+  },
+  "Tokens Settings": {
+    "value": "Configuración de fichas"
+  },
+  "Your Tokens": {
+    "value": "Tus fichas"
+  },
+  "Add Token": {
+    "value": "Agregar token"
+  },
+  "Delete Token": {
+    "value": "Eliminar token"
+  },
+  "Are you sure you want to delete?": {
+    "value": "¿Está seguro de que desea eliminar %token%?"
+  },
+  "Hide Tokens With No Balance": {
+    "value": "Ocultar tokens sin saldo"
+  },
+  "Hide Tokens With No Price": {
+    "value": "Ocultar tokens sin precio"
+  },
+  "Sort By Value": {
+    "value": "Ordenar por valor"
+  },
+  "Update": {
+    "value": "Actualizar"
+  },
+  "Restart": {
+    "value": "Reanudar"
+  },
+  "Update MyTonWallet": {
+    "value": "Actualizar MyTonWallet"
+  },
+  "Connect Ledger": {
+    "value": "Conectar libro mayor"
+  },
+  "Connecting to your Ledger...": {
+    "value": "Conectándose a su libro mayor..."
+  },
+  "Failed to connect": {
+    "value": "Error al conectar"
+  },
+  "Ledger Connected!": {
+    "value": "Libro mayor conectado!"
+  },
+  "Select Ledger Wallets": {
+    "value": "Seleccionar carteras contables"
+  },
+  "%1$d Selected": {
+    "value": "%1$d Seleccionados"
+  },
+  "Add": {
+    "value": "Agregar"
+  },
+  "Try Again": {
+    "value": "Intentar otra vez"
+  },
+  "Driver": {
+    "value": "Conductor"
+  },
+  "Connect your Ledger to PC": {
+    "value": "Conecta tu Ledger al PC"
+  },
+  "Unlock it and open the TON App": {
+    "value": "Desbloquéalo y abre la aplicación de TON"
+  },
+  "Maybe you need to check the password or change the driver.": {
+    "value": "Tal vez necesite verificar la contraseña o cambiar el controlador."
+  },
+  "Or import from...": {
+    "value": "O importar desde..."
+  },
+  "Confirm via Ledger": {
+    "value": "Confirmar a través de Ledger"
+  },
+  "Please confirm transaction on your Ledger": {
+    "value": "Confirme la transacción en su libro mayor"
+  },
+  "Declined": {
+    "value": "Declinado"
+  },
+  "Create Wallet": {
+    "value": "Crear Billetera"
+  },
+  "Switch to the newly opened tab to connect Ledger.": {
+    "value": "Cambia a la pestaña recién abierta para conectar el Ledger."
+  },
+  "Once connected, switch back to this window to proceed.": {
+    "value": "Una vez conectado, vuelve a esta ventana para continuar."
+  },
+  "Not all transactions were sent successfully": {
+    "value": "No todas las transacciones se enviaron correctamente"
+  },
+  "The time on your device is incorrect, sync it and try again": {
+    "value": "El tiempo en su dispositivo es incorrecto, sincronícelo y vuelva a intentarlo"
+  },
+  "Name or Address...": {
+    "value": "Nombre o Dirección..."
+  },
+  "Such error, many tabs": {
+    "value": "Tal error, muchas pestañas"
+  },
+  "$many_tabs_error_description": {
+    "value": "MyTonWallet solo admite una pestaña activa con la aplicación.\nVuelva a cargar esta página para continuar usando esta pestaña o ciérrela.\n"
+  },
+  "Reload App": {
+    "value": "Recargar aplicación"
+  },
+  "Please confirm operation on your Ledger": {
+    "value": "Por favor, confirme la operación en su Ledger"
+  },
+  "Token Not Found": {
+    "value": "Token no encontrado"
+  },
+  "Try another keyword or address.": {
+    "value": "Prueba con otra palabra clave o dirección."
+  },
+  "Decrypt": {
+    "value": "Descifrar"
+  },
+  "Encrypted Message": {
+    "value": "Mensaje encriptado"
+  },
+  "Message is encrypted.": {
+    "value": "El mensaje está encriptado."
+  },
+  "$dapp_ledger_warning1": {
+    "value": "Estás a punto de enviar una transacción multi-direccional utilizando tu monedero **Ledger**. Necesitarás firmar cada transacción subyacente **una por una manualmente**."
+  },
+  "$dapp_ledger_warning2": {
+    "value": "Por favor, tómate tu tiempo y no interrumpas el proceso."
+  },
+  "Agree": {
+    "value": "Aceptar"
+  },
+  "The hardware wallet does not support this data format": {
+    "value": "La billetera de hardware no admite este formato de datos"
+  }
+}
