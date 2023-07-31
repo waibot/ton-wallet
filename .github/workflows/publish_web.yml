@@ -19,7 +19,7 @@ jobs:
 
       - name: Install Dependency
         run: |
-          npm install
+          npm ci
 
       - name: Build Target
         run: |
