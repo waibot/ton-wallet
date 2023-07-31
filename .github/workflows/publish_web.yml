@@ -20,11 +20,9 @@ jobs:
       - name: Install Dependency
         run: |
           npm ci
-
       - name: Build Target
         run: |
           npm run build:production
-
       - name: Deploy Github Pages
         uses: OneKeyHQ/actions/gh-pages@main
         with:
