@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    name: Publish
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Environment
+        uses: actions/setup-node@v3
+        with:
+          registry-url: 'https://npm.pkg.github.com'
+          always-auth: true
+          node-version: '19.x'
+
+      - name: Install Dependency
+        run: |
+          npm install
+
+      - name: Build Target
+        run: |
+          npm run build:production
+
+      - name: Deploy Github Pages
+        uses: OneKeyHQ/actions/gh-pages@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
